@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: c7c0086e2d2c36d46af930de26ec1e47
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tower_Boole ghost Cubo
+    100004: Tower_Boole ghost Cubo_1
+    100006: Tower_Boole ghost Cubo_10
+    100008: Tower_Boole ghost Cubo_2
+    100010: Tower_Boole ghost Cubo_3
+    100012: Tower_Boole ghost Cubo_4
+    100014: Tower_Boole ghost Cubo_5
+    100016: Tower_Boole ghost Cubo_6
+    100018: Tower_Boole ghost Cubo_7
+    100020: Tower_Boole ghost Cubo_8
+    100022: Tower_Boole ghost Cubo_9
+    100024: Tower_Boole Tubo_2
+    100026: Tower_Cilindro
+    100028: Tower_Cilindro_1
+    100030: Tower_Tube
+    100032: Tower_Tubo_1
+    400000: //RootNode
+    400002: Tower_Boole ghost Cubo
+    400004: Tower_Boole ghost Cubo_1
+    400006: Tower_Boole ghost Cubo_10
+    400008: Tower_Boole ghost Cubo_2
+    400010: Tower_Boole ghost Cubo_3
+    400012: Tower_Boole ghost Cubo_4
+    400014: Tower_Boole ghost Cubo_5
+    400016: Tower_Boole ghost Cubo_6
+    400018: Tower_Boole ghost Cubo_7
+    400020: Tower_Boole ghost Cubo_8
+    400022: Tower_Boole ghost Cubo_9
+    400024: Tower_Boole Tubo_2
+    400026: Tower_Cilindro
+    400028: Tower_Cilindro_1
+    400030: Tower_Tube
+    400032: Tower_Tubo_1
+    2300000: Tower_Boole ghost Cubo
+    2300002: Tower_Boole ghost Cubo_1
+    2300004: Tower_Boole ghost Cubo_10
+    2300006: Tower_Boole ghost Cubo_2
+    2300008: Tower_Boole ghost Cubo_3
+    2300010: Tower_Boole ghost Cubo_4
+    2300012: Tower_Boole ghost Cubo_5
+    2300014: Tower_Boole ghost Cubo_6
+    2300016: Tower_Boole ghost Cubo_7
+    2300018: Tower_Boole ghost Cubo_8
+    2300020: Tower_Boole ghost Cubo_9
+    2300022: Tower_Boole Tubo_2
+    2300024: Tower_Cilindro
+    2300026: Tower_Cilindro_1
+    2300028: Tower_Tube
+    2300030: Tower_Tubo_1
+    3300000: Tower_Boole ghost Cubo
+    3300002: Tower_Boole ghost Cubo_1
+    3300004: Tower_Boole ghost Cubo_10
+    3300006: Tower_Boole ghost Cubo_2
+    3300008: Tower_Boole ghost Cubo_3
+    3300010: Tower_Boole ghost Cubo_4
+    3300012: Tower_Boole ghost Cubo_5
+    3300014: Tower_Boole ghost Cubo_6
+    3300016: Tower_Boole ghost Cubo_7
+    3300018: Tower_Boole ghost Cubo_8
+    3300020: Tower_Boole ghost Cubo_9
+    3300022: Tower_Boole Tubo_2
+    3300024: Tower_Cilindro
+    3300026: Tower_Cilindro_1
+    3300028: Tower_Tube
+    3300030: Tower_Tubo_1
+    4300000: Tower_Boole ghost Cubo
+    4300002: Tower_Boole ghost Cubo_1
+    4300004: Tower_Boole ghost Cubo_10
+    4300006: Tower_Boole ghost Cubo_2
+    4300008: Tower_Boole ghost Cubo_3
+    4300010: Tower_Boole ghost Cubo_4
+    4300012: Tower_Boole ghost Cubo_5
+    4300014: Tower_Boole ghost Cubo_6
+    4300016: Tower_Boole ghost Cubo_7
+    4300018: Tower_Boole ghost Cubo_8
+    4300020: Tower_Boole ghost Cubo_9
+    4300022: Tower_Boole Tubo_2
+    4300024: Tower_Cilindro
+    4300026: Tower_Cilindro_1
+    4300028: Tower_Tube
+    4300030: Tower_Tubo_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
